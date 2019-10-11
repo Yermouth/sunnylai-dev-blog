@@ -2,7 +2,7 @@
 template: page
 title: My Background
 slug: background
-draft: true
+draft: false
 ---
 HI
 
